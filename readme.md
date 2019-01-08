@@ -10,14 +10,14 @@ It correctly handles [German umlauts](https://en.wikipedia.org/wiki/Germanic_uml
 ## Install
 
 ```
-$ npm install @sindresorhus/slugify
+$ npm install @matters/slugify
 ```
 
 
 ## Usage
 
 ```js
-const slugify = require('@sindresorhus/slugify');
+const slugify = require('@matters/slugify');
 
 slugify('I ♥ Dogs');
 //=> 'i-love-dogs'

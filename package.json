@@ -3,12 +3,7 @@
 	"version": "0.7.3",
 	"description": "Slugify a string",
 	"license": "MIT",
-	"repository": "sindresorhus/slugify",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
-	},
+	"repository": "thematters/slugify",
 	"engines": {
 		"node": ">=6"
 	},
