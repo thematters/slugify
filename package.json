@@ -1,5 +1,5 @@
 {
-	"name": "@sindresorhus/slugify",
+	"name": "@matters/slugify",
 	"version": "0.7.0",
 	"description": "Slugify a string",
 	"license": "MIT",
